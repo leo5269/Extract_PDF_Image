@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Extract_PDF_Image", "Extract_PDF_Image.pyproj", "{CBAF7A2A-FA39-4ADF-BA7E-F11011063F89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBAF7A2A-FA39-4ADF-BA7E-F11011063F89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBAF7A2A-FA39-4ADF-BA7E-F11011063F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FDB6819-54C1-4121-AB4F-B7BDB31AE45C}
+	EndGlobalSection
+EndGlobal
